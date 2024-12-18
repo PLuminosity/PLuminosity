@@ -1,5 +1,9 @@
 # 👋 Hi, I’m @PLuminosity
 ---
+<a href="https://ko-fi.com/luminositylive" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20me%20on-Ko--Fi-F16061?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi" style="border-radius: 5px;">
+</a>
+
 ## 🛠 Languages and Tools
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" style="border-radius: 5px;">
