@@ -1,3 +1,4 @@
 # 👋 Hi, I’m @PLuminosity
 ---
-[![Support me on Ko-fi](https://storage.ko-fi.com/cdn/widget/Widget_2.png)](ko-fi.com/luminositylive)
+## 💖 Support Me on Ko-fi
+[![Support me on Ko-fi](https://i.imgur.com/pUh6PgO.png)](ko-fi.com/luminositylive)
