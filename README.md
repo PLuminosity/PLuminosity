@@ -17,4 +17,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 5px;">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 5px;">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="border-radius: 5px;">
+  <img src="https://img.shields.io/badge/Godot-358F5B?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" style="border-radius: 5px;">
 </div>
