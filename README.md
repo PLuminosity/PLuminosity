@@ -21,4 +21,4 @@
 </div>
 
 ## 📊 GitHub Stats
-![PLuminosity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PLuminosity&show_icons=true&theme=radical)
+![PLuminosity's GitHub Stats](#)
