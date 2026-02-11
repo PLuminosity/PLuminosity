@@ -16,6 +16,3 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="border-radius: 5px;">
   <img src="https://img.shields.io/badge/Godot-358F5B?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" style="border-radius: 5px;">
 </div>
-
-## 📊 GitHub Stats
-![PLuminosity's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PLuminosity&show_icons=true&theme=radical)
