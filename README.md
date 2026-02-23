@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @PLuminosity
+# 👋 Hi, I'm @PLuminosity
 ---
 <a href="https://ko-fi.com/luminositylive" target="_blank">
   <img src="https://img.shields.io/badge/Support%20me%20on-Ko--Fi-F16061?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi" style="border-radius: 5px;">
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border-radius: 5px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 5px;">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" style="border-radius: 5px;">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" style="border-radius: 5px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 5px;">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="border-radius: 5px;">
   <img src="https://img.shields.io/badge/Godot-358F5B?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" style="border-radius: 5px;">
